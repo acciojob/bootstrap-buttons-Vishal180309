@@ -1,2 +1,12 @@
+body {
+    margin: 20px;
+}
 
-/* Your CSS Code here. */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+button {
+    margin: 10px;
+}
